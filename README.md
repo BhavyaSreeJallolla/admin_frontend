@@ -1,8 +1,29 @@
-# React + Vite
+# Admin Panel – Akshaya Food Restaurant 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the **Admin Panel** of the *Akshaya Food Restaurant* project. The panel is built using **React** and **Vite**, and allows administrators to perform essential CRUD operations for managing food items in the system.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- 📝 Create, Read, Update, and Delete (CRUD) food items
+- 📋 View list of available products
+- 🔍 Update product details
+- 🗑️ Delete unwanted products
+- ⚡ Fast performance with React + Vite
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js, Vite, CSS
+- **Backend:**  like Node.js, Express
+- **Database:**  –  MongoDB
+
+---
+
+Contributors:
+
+Bhavya Sree Jallolla – Admin Panel (this repo)
+
+Chaithragna A. – User Panel (in a separate repo)
